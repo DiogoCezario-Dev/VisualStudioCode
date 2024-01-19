@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(48, 48, 48);
+}
+
+#search-home {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 0px;
+}
+
+input {
+    background-color: rgb(31, 31, 31);
+    width: 80%;
+    height: 23%;
+    color: white;
+}
+
+
+#INPUT-ABAIXO-LOGO {
+    background-color: white;
+    width: 30%;
+    align-items: center;
+    margin-left: 520px;
+    color: black;
+}
+
+#logo-google-img {
+    margin-left: 450px;
+    margin-right: 100px;
+    margin-bottom: -50px;
+}
+
+#netfly {
+    width: 60px;
+    margin-left: 610px;
+    margin-top: 17px;
+    margin-bottom: 18px;
+    cursor: pointer;
+}
+
+#cursoDW {
+    width: 60px;
+    margin-left: 50px;
+    margin-top: 17px;
+    margin-bottom: 18px;
+    cursor: pointer;
+}
+
+#htmlent {
+    width: 60px;
+    margin-left: 50px;
+    margin-top: 17px;
+    margin-bottom: 18px;
+    cursor: pointer;
+}
+
+#bg {
+    width: 68px;
+    margin-left: 47px;
+    cursor: pointer;
+}
+
+#favicon {
+    width: 60px;
+    margin-left: 610px;
+    cursor: pointer;
+}
+
+#mais {
+    width: 60px;
+    margin-left: 50px;
+    cursor: pointer;
+}
