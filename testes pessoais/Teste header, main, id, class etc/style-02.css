@@ -47,7 +47,7 @@ main{
 
 .size-img-icon{
     filter: opacity(100%);
-    width: 75px;
+    width: 45px;
     cursor: pointer;
     animation-name: animation-entrada;
     animation-duration: 1s;
@@ -167,6 +167,12 @@ main{
 }
 
 #icons > div > img{
-    margin-right: 19px;
-    margin-left: 19px;
+    margin-right: 34px;
+    margin-left: 34px;
+}
+
+#img-lupa{
+    background-image: url(https://cdn-icons-png.flaticon.com/256/49/49116.png);
+    background-position: center;
+    background-size: cover;
 }
