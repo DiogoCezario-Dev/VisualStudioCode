@@ -162,6 +162,11 @@ main{
 }
 
 #icons >div{
-    width: 260px;
+    width: 350px;
     margin: auto;
+}
+
+#icons > div > img{
+    margin-right: 19px;
+    margin-left: 19px;
 }
