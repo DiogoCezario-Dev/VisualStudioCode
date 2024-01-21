@@ -2,15 +2,15 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="", initial-scale=1.0">
+    <meta name="viewport" content="", initial-scale= "1.0">
     <title>Document</title>
     
     <!-- linkar link do css --> 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style-02.css">
 
 
 </head>
-<body background="rgb 60 60 60">
+<body>
    
     <!-- barra de pesquisa -->
     <header>
@@ -24,23 +24,35 @@
     </header>
 
     <main>
-        <div id="main-conteudo">
-            <img id="logo-google-img" src="img-google/google-gray-logo.png" alt="" srcset="">
+        <div id="content-main">
+            <div id="main-conteudo">
+                <img id="logo-google-img" src="https://white.logodownload.org/wp-content/uploads/2020/11/google-white-logo.png" alt="" srcset="" width="250px">
+                <div class="box-busca">
 
-       
-            <input id="INPUT-ABAIXO-LOGO" type="text">
-        </div>
-
-        <div>
-            <img src="logos-atalhos-meus/netilfy-logo.png" alt="" srcset="" id="netfly">
-            <img src="logos-atalhos-meus/logo-curso-Dw.png" alt="" srcset="" id="cursoDW">
-            <img src="logos-atalhos-meus/html-entidades-logo.png" alt="" srcset="" id="htmlent">
-        </div>
-
-        <div>
-            <img src="logos-atalhos-meus/favicon-io-logo.png" alt="" srcset="" id="favicon">
-            <img src="logos-atalhos-meus/remover-bg-logo.png" alt="" srcset="" id="bg">
-            <img src="logos-atalhos-meus/mais-azul-removebg-preview.png" alt="" srcset="" id="mais">
+                    <div class="search-box">
+                        
+                        <form method="post" action="#">
+            
+                            <input type="text" class="search-box-input" name="busca" placeholder="Faça sua Pesquisa">
+                            <button class="search-box-button"><i class="search-box-icone icon icon-search"></i></button>
+                        
+                        </form>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="icons">
+                <div>
+                    <img class="size-img-icon" src="logos-atalhos-meus/netilfy-logo.png" alt="" srcset="" id="netfly">
+                    <img class="size-img-icon" src="logos-atalhos-meus/logo-curso-Dw.png" alt="" srcset="" id="cursoDW">
+                    <img class="size-img-icon" src="logos-atalhos-meus/html-entidades-logo.png" alt="" srcset="" id="htmlent">
+                </div>
+                <div>
+                    <img class="size-img-icon" src="logos-atalhos-meus/favicon-io-logo.png" alt="" srcset="" id="favicon">
+                    <img class="size-img-icon" src="logos-atalhos-meus/remover-bg-logo.png" alt="" srcset="" id="bg">
+                    <img class="size-img-icon" src="logos-atalhos-meus/mais-azul-removebg-preview.png" alt="" srcset="" id="mais">
+                </div>
+            </div>
         </div>
     </main>
 
