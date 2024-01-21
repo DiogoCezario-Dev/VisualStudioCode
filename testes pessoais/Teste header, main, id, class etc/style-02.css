@@ -11,6 +11,10 @@ body{
     height: 100vh;
 }
 
+header{
+    background-color: #3C3C3C;
+}
+
 #search-home > input{
     margin: auto;
     display: block;
@@ -178,5 +182,23 @@ main{
 }
 
 #content-header{
-    padding-inline: 15px;
+    padding-inline: 17px;
+    display: flex;
+    align-items: center;
+    height: 35px;
+}
+
+#container-setas{
+    display: flex;
+}
+
+#reload-page > img{
+    margin-left: 21px;
+    filter: opacity(75%); 
+    filter: invert(50%);
+}
+
+#pesquisa-header{
+    margin-left: 15px;
+    width: 100%;
 }
