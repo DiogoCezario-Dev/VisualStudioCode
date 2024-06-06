@@ -2,3 +2,105 @@ body {
     background-image: url(arquivos-necessarios-projeto-anna-bella/fundo.png);
 }
 
+
+/* apenas  o h1 de todos os projetos */
+
+h1 {
+    color: rgb(128, 108, 82);
+}
+
+/* apenas  o h1 de todos os projetos */
+
+
+
+ /* botões de navegação */
+
+a {
+    text-decoration: none;
+    font-size: 1.5em;
+    color: black;
+}
+
+.Bottom-navegation {
+    background-color: rgb(210, 218, 188);
+    width: 900px;
+    font-size: 1.2em;
+    margin-top: 25px;
+}
+
+/* botões de navegação */
+
+
+ /* biografia e inicio */
+
+.bio-e-inicio {
+    background-color: beige;
+    width: 900px;
+}
+
+#para-i-b {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+ /* biografia e inicio */
+
+
+ /* campanha.html */
+#Div-campanhas {
+width: 900px;
+background-color: rgb(255, 253, 235);
+    
+} 
+
+#p-campanhas {
+    font-size: 20px;
+    color: dimgray;
+}
+
+#P-campanhas-2 {
+    font-size: 20px;
+    color: darkkhaki;
+}
+
+#P-campanhas-3 {
+    font-size: 20px;
+    color: coral;
+}
+
+#P-campanha-4 {
+    font-size: 20px;
+}
+
+ /* campanha.html */
+
+
+
+/* contato */
+
+#contato-coisas {
+    width: 900px;
+    background-color: cornsilk;
+}
+
+
+#paragrafo-contato {
+    font-size: 20px;
+}
+
+#contato-final {
+    font-size: 30px;
+}
+
+/* contato */
+
+
+
+/* COPYRIGTH */
+
+h3 {
+    font-size: 2em;
+    text-align: center;
+}
+
+/* COPYRIGTH */
