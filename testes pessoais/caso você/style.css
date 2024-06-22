@@ -1,0 +1,124 @@
+/* fundo background */
+
+body {
+    background-image: url(pictures/background.jpg);
+}
+
+/* fundo background */
+
+
+/* Header */
+
+h1 {
+    text-align: center;
+    justify-content: center;
+    font-size: 2.7em;
+    font-family: monospace;
+}
+
+#paragrafo-header {
+    font-size: 2.2em;
+    text-align: center;
+    justify-content: center;
+    justify-self: center;
+}
+
+#Basil-emote {
+    width: 100px;
+    margin-left: 1300px;
+}
+
+header {
+    background-color: bisque;
+    background-size: 100%;
+}
+
+/* Header */ 
+
+/* decoração */
+
+#decoração {
+    background-color: black;
+    font-size: 1.3em;
+}
+
+/* first section */
+
+#caso-voce {
+    font-size: 50px;
+    margin-left: 250px;
+}
+
+#playlist-spotify-lover {
+    width: 520px;
+    margin-left: 250px;
+}
+
+#para-playlist {
+    margin-left: 790px;
+    margin-top: -270px;
+    font-size: 2.5em;
+}
+
+#para-play-2 {
+    font-size: 2.3em;
+    margin-left: 785px;
+}
+
+#mitsuba {
+    width: 93px;
+    margin-left: 1391px;
+    margin-top: -20px;
+}
+
+#quant-mscs {
+    margin-top: 100px;
+    width: 350px;
+    margin-left: 900px;
+}
+
+#para-qnt-msc {
+    font-size: 2.5em;
+    margin-left: 300px;
+    margin-top: -60px;
+}
+
+#seta-vermelha {
+    width: 500px;
+    margin-top: -200px;
+    margin-left: 450px;
+}
+
+#link-playlist {
+    font-size: 4em;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 600px;
+}
+
+.linha {
+    background-color: aqua;
+    color: aqua;
+    width: 100%;
+}
+
+/* first section */
+
+/* second section */
+
+.pocket-love {
+    width: 450px;
+    margin-left: 250px;
+}
+
+#para-pocket-love {
+    font-size: 2.4em;
+    margin-left: 220px;
+}
+
+#para-pocket-love-2 {
+    font-size: 2.5em;
+    margin-left: 480px;
+}
+
+/* second section */
