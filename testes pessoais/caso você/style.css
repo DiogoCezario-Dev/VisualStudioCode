@@ -121,4 +121,98 @@ header {
     margin-left: 480px;
 }
 
+#POCKET-LOVE {
+    text-align: center;
+    font-size: 3em;
+}
+
 /* second section */
+
+/*third section*/
+
+#pinterest-pasta {
+    width: 300px;
+    margin-left: 300px;
+}
+
+#pasta-texto-pin {
+    margin-left: 650px;
+    font-size: 2.6em;
+    margin-top: -300px;
+    
+}
+
+#pasta-texto-pin-2 {
+    margin-left: 680px;
+    font-size: 2.6em;
+}
+
+#otani-emote {
+    width: 200px;
+    margin-left: 950px;
+    margin-top: -50px;
+}
+
+#PASTA-PIN-LINK {
+    font-size: 4em;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(45, 133, 255);
+}
+
+/*third section*/
+
+/*quarta section*/ 
+
+#canal-youtube-paragr {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+#LINK-EDIT {
+    text-align: center;
+    font-size: 4em;
+    color: deepskyblue;
+}
+
+#img-canal-yt {
+    width: 550px;
+    margin-left: 100px;
+}
+
+#p-canal-img-p {
+    font-size: 50px;
+    margin-left: 700px;
+    margin-top: -200px;
+}
+
+#linha-contraditoria {
+    margin-top: 160px;
+}
+
+/*quarta section*/
+
+/*quinta section*/ 
+
+#roupa-xuxuzinha {
+    width: 300px;
+    margin-left: 300px;
+    margin-top: 10px;
+}
+
+#paragr-roupa {
+    font-size: 50px;
+    width: 30%;
+    margin-left: 700px;
+    margin-top: -35
+}
+
+/* quinta section */
+
+/*fim */
+
+#paragraf-final {
+    font-size: 3em;
+    width: 40%;
+    margin-left: 500px;
+}
