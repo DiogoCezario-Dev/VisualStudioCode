@@ -1,0 +1,66 @@
+/* fundo */
+
+body {
+    background-image: url(imagens/fundo.jpg);
+}
+
+/* fundo */
+
+/* paragrafo inicial */
+
+#paragr-inicial {
+    font-size: 3.6em;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.checkbox {
+    width: 200px;
+}
+
+#abafador-grande {
+    margin-left: 150px;
+    width: 250px;
+    margin-top: -30px;
+}
+
+#paragraf-abafador-g {
+    font-size: 3.2em;
+    margin-left: 450px;
+    text-align: center;
+    margin-top: -150px;
+}
+
+#checkbox-2 {
+    margin-top: 100px;
+}
+
+#carteira-e-document {
+    width: 270px;
+    margin-left: 150px;
+    margin-top: -30px;
+}
+
+#paragrf-carteira {
+    font-size: 3.2em;
+    margin-left: 450px;
+    text-align: center;
+    margin-top: -150px;
+}
+
+#checkbox-3 {
+    margin-top: 100px;
+}
+
+#cell {
+    width: 270px;
+    margin-left: 150px;
+    margin-top: -30px;
+}
+
+#paragraf-cell {
+    font-size: 3.2em;
+    margin-left: 450px;
+    text-align: center;
+    margin-top: -150px;
+}

@@ -1,0 +1,38 @@
+body {
+    background-image: url(imagens/fundo.png);
+}
+
+#linha-banner {
+    background-color: rgb(34, 55, 95);
+    width: 100%;
+    font-size: 4em;
+    margin-top: -10px;
+    color: rgb(34, 55, 95);
+    float: left;
+}
+
+#banner-principal {
+    width: 1500px;
+    height: 350px;
+    margin-top: -100px;
+}
+
+#bem-vindo {
+    text-align: center;
+    color: darkgray;
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
+#campanha-botao {
+    color: darkturquoise;
+      
+}
+
+#campanha-1 {
+    margin-left: 10px;
+    float: left;
+}
