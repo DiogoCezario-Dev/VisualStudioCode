@@ -1,0 +1,49 @@
+#barra-de-navegação {
+    background-color: cornflowerblue;
+    padding: 20px;
+    border: 3px solid black;
+    border-radius: 50px;
+}
+
+.botoes-de-naveg {
+    text-decoration: none;
+    font-size: 1.9em;
+    margin-left: 210px;
+    color: black;
+    line-height: 2em;
+}
+
+#barra-de-navegação a:hover {
+    background-color: rgb(255, 255, 255);
+    color: blue;
+}
+
+#olá {
+    text-align: center;
+}
+
+#intro {
+    text-align: center;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#beluga-pesquisa {
+    width: 230px;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: cornflowerblue;
+    border-radius: 200px;
+    margin-left: 50px;
+    
+}
+
+#beluga {
+    margin-left: 140px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.5em;
+}
+
+#belugas-pes {
+    display: inline;
+}

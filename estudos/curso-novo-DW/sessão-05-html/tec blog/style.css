@@ -1,0 +1,142 @@
+body {
+    background-color: rgb(237, 237, 237);
+}
+
+#tec {
+    margin-left: 700px;
+    color: rgb(51, 51, 51);
+    text-align: center;
+    display: inline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2.5em;
+    font-weight: bolder;
+
+}
+
+#blog {
+    margin-left: 2px;
+    text-align: center;
+    display: inline;
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2.5em;
+    font-weight: bolder;
+}
+
+#inicio {
+    background-color: rgb(255, 217, 0);
+    width: 100%;
+    padding-top: 10px;
+    margin-top: -10px;
+    padding-bottom: 10px;
+    padding-right: 8px;
+    padding-left: 10px;
+    margin-left: -7px;
+}
+
+.botos {
+    padding-right: 10px;
+    padding-top: 10px;
+    font-size: 1.5em;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+a:hover {
+    color: rgb(255, 217, 0);
+    background-color: white;
+}
+
+#Postagens {
+    background-color: gainsboro;
+    color: rgb(77, 76, 76);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#div-1 {
+    background-color: white;
+    display: inline;
+    height: 12%;
+    width: 20%;
+    float: right;
+    margin-right: 50px;
+    margin-top: -600px;
+    z-index: 2;
+    
+}
+
+#aragrafo-1 {
+    width: 20%;
+}
+
+#link-leia-mais-1 {
+    color: rgb(255, 183, 0);
+    text-decoration: none;
+}
+
+#div-2{
+    background-color: white;
+    display: inline;
+    height: 11%;
+    width: 20%;
+    float: left;
+    margin-right: 80px;
+    z-index: 1;
+    margin-top: -300px;
+    margin-left: 1150px;
+}
+
+#div-3 {
+    background-color: white;
+    width: 980px;
+}
+
+#titulo-postage-1 {
+    color: orange;
+    font-size: 2em;
+    margin-left: 100px;
+}
+
+#postado-m-2022 {
+    margin-top: -10px;
+    margin-left: 100px;
+}
+
+#img-2 {
+    margin-left: 100px;
+}
+
+.botaos {
+    color: orange;
+    background-color: white;
+    text-decoration: none;
+    font-size: 1.3em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-bottom: 20px;
+}
+
+#paragraf-3 {
+    margin-left: 100px;
+    
+}
+
+#link-leia-mais-3 {
+    color: orange;
+    text-decoration: none;
+    font-size: 1.2em;
+    margin-left: 100px;
+}
+
+footer {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(214, 214, 214);
+    margin-top: 40px;
+    font-size: 1.4em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 900px;
+    margin-left: 300px;
+}

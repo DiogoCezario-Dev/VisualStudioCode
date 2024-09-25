@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(37, 38, 50);
+    
+}
+
+#img-1 {
+    width: 18%;
+    height: 250px;
+    margin-left: 30px;
+    display: inline;
+    border-radius: 6px;
+    margin-top: 5px;
+    box-shadow: 4px 4px 10px 10px rgba(0, 0, 0, 1);
+    animation-name: animacao-1;
+    animation-duration: 4s;
+    animation-direction: alternate;
+    animation: animacao-1 5s 2s 2 alternate;
+
+}
+
+@keyframes animacao-1 {
+    from {
+        box-shadow: 4px 4px 10px 10px rgba(0, 0, 0, 1);
+    }
+
+    to {
+        box-shadow: 4px 4px 30px 40px rgba(rgb(121, 121, 121), rgb(126, 126, 126), rgb(120, 120, 120), 0.7);
+        border-radius: 300px;
+    }
+}
+
+#playlist {
+    margin-left: 330px;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: -150px;
+    font-size: 15px;
+}
+
+#titulo {
+    margin-left: 330px;
+    font-size: 4em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-transform: uppercase;
+}
+
+#for-my-lover {
+    color: white;
+    font-size: 1.1em;
+    font-family: "HowdyLemon";
+    margin-left: 340px;   
+    opacity: 0.8;
+}
+
+@font-face {
+    font-family: "HowdyLemon";
+    src: url(HowdyLemon.woff);
+}
+
+#msc {
+    margin-left: 340px;
+    color: white;
+    opacity: 0.8;
+    margin-top: 5px;
+}
+
+#pause {
+    width: 80px;
+    background-color: rgb(118, 184, 21);
+    border-radius: 300px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+#-pontos {
+    width: 40px;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+
+#container-2 {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+#titulo-2 {
+    animation: none;
+    color: white;
+    opacity: 0.6;
+    display: inline;
+    padding-right: 200px;
+    font-size: 1.3em;
+    margin-left: 40px;
+}
+
+#album {
+    display: inline;
+    font-size: 1.3em;
+    padding-left: 300px;
+    color: white;
+    opacity: 0.6;
+}
+
+hr {
+    opacity: 0.4;
+    margin-left: -50px;
+}
+
+#relogio {
+    width: 32px;
+    margin-left: 400px;
+    border-radius: 200px;
+    background-color: grey;
+}
+
+#foto-iwasmade {
+    width: 50px;
+    margin-left: 90px;
+    display: inline;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+#i-was-made-for-lovin-you {
+    text-transform: lowercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    display: inline;
+    margin-left: 30px;
+    font-size: 1.2em;
+    text-align: center;
+    padding-left: 10px;
+    text-shadow: 3px 3px 4px rgba(0, 0, 0, 1); 
+    text-decoration: none;
+}
+
+#Dynasty {
+    display: inline;
+    margin-left: 160px;
+    font-size: 1.1em;
+    color: white;
+    font-family: sans-serif;
+}
+
+#min431seg {
+    margin-left: 1117px;
+    font-size: 1.2em;
+    color: white;
+    margin-top: -20px;
+}
+
+#foto-iwannabegf {
+    width: 50px;
+    margin-left: 90px;
+    display: inline;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+#i-wanna-be-your-girlfriend {
+    text-decoration: none;
+    color: white;
+    text-shadow: 3px 3px 4px rgba(0, 0, 0, 1);
+    font-size: 1.2em;
+    text-transform: lowercase;
+    padding-left: 10px;
+    margin-left: 30px;
+    display: inline;
+    text-align: center;
+}

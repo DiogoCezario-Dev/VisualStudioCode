@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container-1{
+    align-items: center;
+    margin-left: 200px;
+    width: 70%;
+    display: block;
+}
+
+#titulo {
+    background-color: rgb(234, 255, 203);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#img-layout {
+    width: 20%;
+    float: left;
+    border-radius: 20px;
+    display: block;
+    min-width: 15%;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+#descrição-hiperfoco {
+    width: 40%;
+    text-align: center;
+    padding: 10px;
+    display: block;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#paragrafo-2 {
+    background-color: rgb(217, 217, 217);
+    width: 18%;
+    display: block;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 355px;
+    margin-top: -180px;
+    background-size: 100%;
+    overflow: scroll;
+}
+
+#ass {
+    text-align: center;
+    padding: 5px;
+    margin-left: 360px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: bisque;
+    display: inline-block;
+}
+
+#hr {
+    margin-top: 5px;
+    border: 2px solid black;
+}
+
+#patati-patatá-div {
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+    background-image: url(pictures/patati-patatá.jpg);
+    background-attachment: fixed;
+    opacity: 0.7;
+    background-repeat: no-repeat;
+}
+
+#h2-patati-patatá {
+    text-align: center;
+    font-size: 1.6em;
+    background-color: beige;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+#patati-patatá-img {
+    opacity: 0;
+}
+
+#paragrafo-pti-pta {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+#meninas-super-div {
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+    background-image: url(pictures/meninas-super-poderosas.jpg);
+    background-attachment: fixed;
+    opacity: 0.7;
+    background-repeat: no-repeat;
+}
+
+#img-2 {
+    opacity: 0;
+}

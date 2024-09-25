@@ -1,0 +1,57 @@
+body {
+    background: url(imagens/fundo.png);
+    width: 100%;
+}
+
+#login {
+    text-align: center;
+    background-color: white;
+    width: 30%;
+    margin-left: 300px;
+    height: 150px;
+    margin-top: 100px;
+    background: linear-gradient(rgb(58, 56, 56) ) gray;
+}   
+
+#img-login {
+    width: 30%;
+    margin-top: -50px;
+    border-radius: 200px;
+}
+
+#email {
+   width: 80%;
+   padding-left: 20px;
+   border: gray 1px transparent;
+   border-radius: 20px;
+   margin-top: 10px;
+   background-image: url(imagens/email-imagem.png);
+   background-position: left;
+   background-repeat: no-repeat;
+   background-size: 15px;
+   height: 20px;
+   background-position: 2px;
+}
+
+#senha {
+    width: 80%;
+    padding-left: 20px;
+    border: gray 1px transparent;
+    margin-top: 10px;
+    border-radius: 20px;
+    height: 20px;
+    background-image: url(imagens/cadeado.png);
+    background-size: 20px;
+    background-repeat: no-repeat;
+}
+
+#logar {
+    background-color: rgb(0, 157, 255);
+    width: 90%;
+    margin-top: 8px;
+    border: blue 1px solid;
+    border-radius: 20px;
+    height: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: linear-gradient(to bottom, rgb(0, 170, 255), rgb(4, 4, 103));
+}

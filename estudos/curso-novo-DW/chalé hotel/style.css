@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+    background-image: url(imagens/imagens-necessarias-chale-hotel-criando-topo/imagens/bg.png);
+}
+
+#container {
+    background: #ede9cc;
+}
+
+#topo {
+    background: #dbcb87;
+    height: 15.4em;
+    min-height: 250px;
+    position: relative;
+}
+
+#area-logo {
+    position: absolute;
+    background: url(imagens/imagens-necessarias-chale-hotel-criando-topo/imagens/topo-imagem-principal.png);
+    background-repeat: none;
+    width: 100%;
+    height: 250px;
+    top: 0;
+    left: 0;
+}
+
+#area-menu {
+    position: absolute;
+    background: url(imagens/imagens-necessarias-chale-hotel-criando-topo/imagens/topo-imagem-lateral.png);
+    width: 450px;
+    height: 250px;
+    top: 0;
+    right: 0;
+}
+
+#menu {
+    margin-top: -200px;
+    position: relative;
+}
+
+#navegação {
+    float: left;
+    list-style: none;
+}
+
+#img-logo {
+    float: right;
+}
