@@ -2,19 +2,3 @@
     padding: 0px;
     margin: 0px;
 }
-
-header{
-    display: flex;
-    align-items: last baseline;
-}
-
-#album-image{
-    width: 400px;
-    height: 350px;
-
-    border-radius: 15px;
-}
-
-#text-album-container{
-    padding-bottom: 8px;
-}
